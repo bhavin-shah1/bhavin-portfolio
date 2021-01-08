@@ -1,38 +1,11 @@
 import React, { Component } from 'react';
-import * as emailjs from 'emailjs-com'
+//import * as emailjs from 'emailjs-com'
 
 class Contact extends Component {
 
    constructor(props) {
       super(props)
       this.state = {
-         contactName: '',
-         contactEmail: '',
-         contactSubject: '',
-         contactMessage: '',
-      }
-   }
-
-   handleFormSubmit( e ) {
-      e.preventDefault()
-      // const { contactName, contactEmail, contactMessage, contactSubject } = this.state
-      let info = {
-         from_name : this.state.contactEmail,
-         to_name : 'jaheyliger@yahoo.com',
-         subject: this.state.contactSubject,
-         message_html: this.state.contactmessage
-      }
-      emailjs.send(
-         'gmail',
-         'template_bt4jtv7',
-         info,
-         'user_qkSJfJPLsDPVlJ4V5Ss9B'
-      )
-      this.resetForm()
-   }
-
-   resetForm() {
-      this.setState = {
          contactName: '',
          contactEmail: '',
          contactSubject: '',
@@ -60,14 +33,19 @@ class Contact extends Component {
                <h1><span>Get In Touch.</span></h1>
             </div>
             <div className="ten columns">
-                  <p className="lead">{message}</p>
+                  <p className="lead">{message}</p><br/>
+                  <p 
+                     className="lead warning"
+                     style={{ color: 'red' }}
+                  >Warning: Contact form not yet configured, please contact me via normal email for now</p>
+
             </div>
          </div>
 
          <div className="row">
             <div className="eight columns">
 
-               <form onSubmit={this.handleFormSubmit} id="contactForm" name="contactForm">
+               <form id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
