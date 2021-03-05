@@ -1,36 +1,36 @@
 {
   "main": {
-    "name":"Jayvon Heyliger",
-    "description":"I am a web development engineer and I use React to develop pages. This project will also be availble via my GitHub if you would like to view the source code.",
+    "name":"Bhavin Shah",
+    "description":"Quick,Short description goes here",
     "image":"profilepic.jpg",
-    "bio":"I have recently graduated from Kean University in Information Technology. Currently, I use my time and resources to research and work on developing new projects. My goal for the near future is to land my first official development job. My dream is utilize my passion for coding to influence others and later allow allow me to work all around the world.",
+    "bio":"Aspiring Information Technology Specialist with a Cybersecurity degree at Kean University. Inventive, multi-tasking, and organized IT specialist with technical skills of MS Office, Adobe Creative Cloud, etc. and knowledge of detail-oriented production plans that accomplish project goals. I am excited for opportunities and challenges that will not only better my work, but also myself.",
     "contactmessage":"Please feel free to contact me by phone or email",
-    "email": "jaheyliger@yahoo.com",
-    "phone": "(973) 454-8557",
-    "github":"https://github.com/jaheyliger",
-    "project":"https://github.com/jaheyliger/react-portfolio",
+    "email": "INSERT EMAIL",
+    "phone": "(201) 737-8167",
+    "github":"https://github.com/",
+    "project":"https://github.com/",
     "address":{
       "street":"",
-      "city":"Hillside",
+      "city":"Jersey City",
       "state":"NJ",
-      "zip": "07205"
+      "zip": "INSERT ZIP CODE"
     },
-    "website": "http://www.jayvonh.com",
-    "resumedownload":"https://drive.google.com/file/d/1HQZzWFYRYsI6BaJZrYeRB4wLt1ZyGonz/view?usp=sharing",
+    "website": "http://www.bhavinshah.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/jayvon-heyliger",
+        "url":"https://www.linkedin.com/in/sbhavin/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/jaheyliger",
+        "url":"",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/jaheyliger",
+        "url":"https://github.com/",
         "className":"fa fa-github"
       }
     ]
@@ -42,13 +42,13 @@
         "school":"Kean University",
         "degree":"Bachelors in Information Technology",
         "graduated":"January 2020",
-        "description":"Here I took my Bacholors of Information Tecnology with a Cybersecurity Specialty and achieved a more thorough understanding of the concepts and science behind complex programming and security on the web. During this journey, I discovered my passion for developing scalable applications (web and mobile) and the security behind computer and application systems."
+        "description":"Here I took my Bacholors in Information Tecnology with a Cybersecurity Specialty and achieved a more thorough understanding of the concepts and science behind complex programming and security on the web. During this journey, I discovered my passion for developing scalable applications (web and mobile) and the security behind computer and application systems."
       },
       {
         "school":"Zero to Mastery",
         "degree":"Certification of Completion",
         "graduated":"December 2020 - Present",
-        "description":"Software Eningeering courses in the areas of React development and Python programming. These course helped me to furter my understanding of software engineering and strive to acheive my career goals."
+        "description":"Software Eningeering courses in the areas of React development and Javascript programming. These courses helped me to furter my understanding of web development and strive to achieve my career goals."
       },
       {
         "school":"Revature Spark Training",
@@ -67,7 +67,7 @@
       {
         "company":"Freelance",
         "title":"Web Designer",
-        "years":"December 2020 - January 2020",
+        "years":"December 2020 - January 2021",
         "description":"Collaborated with clients to create a UI/UX design for an commerce site that they were looking to build"
       }
     ],
@@ -116,6 +116,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"CRWN Clothing",
+        "category":"Ecommerce clothes shopping site",
+        "image":"crwnclothing.png",
+        "url":"https://shopcrwn.herokuapp.com/"
+      },
       {
         "title":"Portfolio",
         "category":"One of my previous portfolio designs",
