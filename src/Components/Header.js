@@ -53,7 +53,7 @@ class Header extends Component {
 				<div className='row banner'>
 					<div className='banner-text'>
 						<h1 className='responsive-headline'>
-							<Typed strings={['Hi Im', `${name}`]} typeSpeed={80} />
+							<Typed strings={["Hi I'm", `${name}`]} typeSpeed={80} />
 						</h1>
 						<h3>{description}</h3>
 						<hr />
