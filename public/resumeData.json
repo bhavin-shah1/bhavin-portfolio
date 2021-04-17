@@ -63,37 +63,30 @@
 		"skills": [
 			{
 				"name": "Adobe Photoshop",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "photoshop.png"
 			},
 			{
 				"name": "Final Cut Pro",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "finalcutpro.png"
 			},
 			{
 				"name": "Adobe Premiere Pro",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "premiere.png"
 			},
 			{
 				"name": "Photography",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "camera.png"
 			},
 			{
 				"name": "Java",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "java.png"
 			},
 			{
 				"name": "SQL",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "sql.png"
 			},
 			{
 				"name": "Media Production",
-				"description": "ENTER DESCRIPTION HERE",
 				"image": "video.png"
 			}
 		]
