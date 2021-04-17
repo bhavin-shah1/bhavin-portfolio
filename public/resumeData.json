@@ -66,12 +66,12 @@
 				"image": "photoshop.png"
 			},
 			{
-				"name": "Final Cut Pro",
-				"image": "finalcutpro.png"
-			},
-			{
 				"name": "Adobe Premiere Pro",
 				"image": "premiere.png"
+			},
+			{
+				"name": "Final Cut Pro",
+				"image": "finalcutpro.png"
 			},
 			{
 				"name": "Photography",
