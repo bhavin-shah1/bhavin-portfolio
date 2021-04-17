@@ -88,6 +88,10 @@
 			{
 				"name": "G Suite",
 				"image": "gsuite.png"
+			},
+			{
+				"name": "MacOS",
+				"image": "macos.png"
 			}
 		]
 	},
