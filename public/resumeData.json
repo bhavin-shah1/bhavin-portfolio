@@ -5,7 +5,7 @@
     "image":"profilepic.jpg",
     "bio":"Aspiring Information Technology Specialist with a Cybersecurity degree at Kean University. Inventive, multi-tasking, and organized IT specialist with technical skills of MS Office, Adobe Creative Cloud, etc. and knowledge of detail-oriented production plans that accomplish project goals. I am excited for opportunities and challenges that will not only better my work, but also myself.",
     "contactmessage":"Please feel free to contact me by phone or email",
-    "email": "INSERT EMAIL",
+    "email": "bhavinshah@sampdrive.com",
     "phone": "(201) 737-8167",
     "github":"https://github.com/",
     "project":"https://github.com/",
@@ -13,7 +13,7 @@
       "street":"",
       "city":"Jersey City",
       "state":"NJ",
-      "zip": "INSERT ZIP CODE"
+      "zip": "07307"
     },
     "website": "http://www.bhavinshah.com",
     "resumedownload":"",
@@ -41,104 +41,75 @@
       {
         "school":"Kean University",
         "degree":"Bachelors in Information Technology",
-        "graduated":"January 2020",
-        "description":"Here I took my Bacholors in Information Tecnology with a Cybersecurity Specialty and achieved a more thorough understanding of the concepts and science behind complex programming and security on the web. During this journey, I discovered my passion for developing scalable applications (web and mobile) and the security behind computer and application systems."
-      },
-      {
-        "school":"Zero to Mastery",
-        "degree":"Certification of Completion",
-        "graduated":"December 2020 - Present",
-        "description":"Software Eningeering courses in the areas of React development and Javascript programming. These courses helped me to furter my understanding of web development and strive to achieve my career goals."
-      },
-      {
-        "school":"Revature Spark Training",
-        "degree":"Certification of Completion",
-        "graduated":"November 2020",
-        "description":"Software Engineering Training focused around Web Development languages, SQL, and Java. This included five projects designed to challenge, assess, and implement all of the material from the lectures and transform them into usable applications."
+        "graduated":"January 2021",
+        "description":"ENTER DESCRIPTION HERE"
       }
     ],
     "work":[
       {
-        "company":"NBCUniversal",
-        "title":"Desktop Support Engineer",
+        "company":"Apple",
+        "title":"Genius Administrator",
         "years":"March 2020 - Present",
-        "description":"While working for NBCU I performed a ranged of tasks including, but not limited to, imaging laptops, Mac software installation, domain management, VPN configuration, secure discarding of sensitive data, and troubleshooting."
+        "description":"As a Genius Admin I assist and manage workflows to ensure high tempo and short turnaround time on repair queues. Provide daily feedback correcting inconsistencies in note taking, inventory allocation, and core competencies. I am a daily resource, taking time to acknowledge changes in policy and communicating said changes to better team knowledge. Perform troubleshooting to various mobile devices. Serve as the point of contact between the store and customers, making pickup calls and repair updates. I am also one of the primary contacts in-store for pickups."
       },
       {
-        "company":"Freelance",
-        "title":"Web Designer",
-        "years":"December 2020 - January 2021",
-        "description":"Collaborated with clients to create a UI/UX design for an commerce site that they were looking to build"
+        "company":"Apple",
+        "title":"Technical Specialist",
+        "years":"March 2019 - March 2020",
+        "description":"As a Technical Specialist, I help new owners get started and current ones get quick, efficient support — developing strong, positive relationships with Apple. When a customer needs assistance, I quickly assess their situation. Sometimes I take care of customers with advice or a solution on the spot, using my knowledge of current Apple technology to help with iPod, iPhone, and iPad devices. At other times, I refer customers to support team members who get them up and running again. I even provide personal advice for new customers, helping them acquire the basic skills they need to get started on photo, video, and music projects."
+      },
+      {
+        "company":"Kean University Police Department",
+        "title":"System Administrator",
+        "years":"January 2018 - March 2019",
+        "description":"Assisting with helping officers with problems in Windows and Mac based Operating Systems. Also helping with troubleshooting network printers/scanner issues. Helping to also aid any difficulties in Microsoft Office and any other University softwares."
       }
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "description":"React is by far my framework of choice for developing front end UI design. This site itself is made possible by using React.",
-        "image":"react.png"
+        "name":"Adobe Photoshop",
+        "description":"ENTER DESCRIPTION HERE",
+        "image":"photoshop.png"
       },
       {
-        "name":"NodeJs",
-        "description":"The bulk of my experience has been with Node JS and it is my server-side scripting language of choice.",
-        "image":"node.png"
+        "name":"Final Cut Pro",
+        "description":"ENTER DESCRIPTION HERE",
+        "image":"finalcutpro.png"
       },
       {
-        "name":"SASS",
-        "description":"SASS is provides a new way of thinking when developing CSS. I find that nesting and using partials make it easier to keep track of whats changing with CSS, especially when used on larger projects.",
-        "image":"sass.png"
+        "name":"Adobe Premiere Pro",
+        "description":"ENTER DESCRIPTION HERE",
+        "image":"premiere.png"
+      },
+      {
+        "name":"Photography",
+        "description":"ENTER DESCRIPTION HERE",
+        "image":"camera.png"
       },
       {
         "name":"Java",
-        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "description":"ENTER DESCRIPTION HERE",
         "image":"java.png"
       },
       {
-        "name":"Figma",
-        "description":"Figma is by far one of favorite tools to use when prototyping a new UI design. I find this tool to be perfect for me to express my creative vision.",
-        "image":"figma.png"
-      },
-      {
-        "name":"Swift",
-        "description":"I was introduced to Swift while creating an iOS app for my University Senior Capstone Project. I sought out to challenge myself to learn a new programming language and in the end, i discovered a new interest in developing mobile applicaions.",
-        "image":"swift.png"
-      },
-      {
-        "name":"MongoDB",
-        "description":"MongoDB has proved to suit my needs when I began to get interested in MERN Full Stack Development due to its ease of use and its enjoyable to work with",
-        "image":"mongodb.png"
-      },
-      {
         "name":"SQL",
-        "description":"MySQL was my first introduction to a relational database system when I created a project while during my time in University. ",
+        "description":"ENTER DESCRIPTION HERE",
         "image":"sql.png"
+      },
+      {
+        "name":"Media Production",
+        "description":"ENTER DESCRIPTION HERE",
+        "image":"video.png"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"CRWN Clothing",
-        "category":"Ecommerce clothes shopping site",
-        "image":"crwnclothing.png",
-        "url":"https://shopcrwn.herokuapp.com/"
-      },
-      {
-        "title":"Portfolio",
-        "category":"One of my previous portfolio designs",
-        "image":"portfolio.jpg",
-        "url":"http://www.jayvonheyliger.com"
-      },
-      {
-        "title":"Omnifood",
-        "category":"Concept for a meal delivery service",
-        "image":"omnifood.jpg",
-        "url":"http://www.jayvonheyliger.com/Omnifood/index.html"
-      },
-      {
         "title":"University Database Project",
         "category":"(Offline Now) Employe Database Login",
         "image":"database.jpg",
-        "url":"http://eve.kean.edu/~heyligej/TECH3720/login.html"
+        "url":"http://eve.kean.edu/~sbhavin/TECH3740/"
       }
     ]
   }

@@ -35,7 +35,7 @@ class About extends Component {
 						      {city} {state}, {zip}
                    </span><br />
 						   <span>{phone}</span><br />
-                     <a href="mailto:jaheyliger@yahoo.com"><span>{email}</span></a>
+                     <a href="mailto:bhavinshah@sampdrive.com"><span>{email}</span></a>
 					   </p>
                </div>
                <div className="columns download">

@@ -32,8 +32,7 @@ class Header extends Component {
       </nav>
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
-            {/* <h1 className="responsive-headline"><Typed strings={['Hello', 'My Name Is', `${name}`]} typeSpeed={65} /></h1> */}
+            <h1 className="responsive-headline"><Typed strings={['Hi Im', `${name}`]} typeSpeed={65} /></h1>
             <h3>{description}</h3>
             <hr />
             <ul className="social">
